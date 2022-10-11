@@ -43,7 +43,7 @@
 ## Becoming an IT Business Analyst
 
 ### Accounting and Financial Management at University of Waterloo 
-    - 5 years
+   * 5 years
     - Obtain the knowledge necessary to evaluate financial data and assume leadership positions in any type of organization. This demanding program covers investment management, business analytics, accounting, and finance among other topics.
      For admission:
         - 83-87% for admission
