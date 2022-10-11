@@ -121,7 +121,7 @@
 ### An Entry-level Position
   * You work at RBC, in Toronto working 37.5 hours per week
 
-    Job Description
+   * Job Description
         - Creating test plans, system specifications, and papers for IT applications in accordance with current standards and procedures.
         - Converting business processes and procedures into a usable system and speaking with technology specialists and business stakeholders on the precise software requirements that must be met.
         - Assist in the end-to-end execution of our goods and services for our customers by working within an agile product team.
@@ -137,7 +137,7 @@
 ### A Mid-level Position 
   * You will work at Mobis Parts, in Markham working regular full-time job hours
 
-    Job Description
+   * Job Description
 
         As a Business Analyst, you will perform detailed requirement analysis, documenting processes, and performing some user acceptance testing. The position will report to the Manager, System & Pricing.
 
@@ -162,7 +162,7 @@
 ### A Senior Level Position
   * You will work at Aviva Canada, in Markham working regular full-time job hours
 
-    Job Description
+   * Job Description
 
         - Manage the scope, establish priorities, and assure the timely and effective completion of many projects.
         - Work together with the business and IT collaborators to comprehend the program's or project's business context and desired future state. provide business partners with leadership and services around new initiatives (small to large complexity).
