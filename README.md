@@ -37,7 +37,7 @@
     - Modelling of processes
     - Knowledge of databases, networks, and other technology
 
-### Salary
+  * Salary
     - The average IT Business Analyst salary in Canada is $7-,037 /yr but it ranges from $5-K to $105K /yr
 
 
@@ -119,7 +119,7 @@
 # Job Opportunities Example
 
 ### An Entry-level Position
-    You work at RBC, in Toronto working 37.5 hours per week
+  * You work at RBC, in Toronto working 37.5 hours per week
 
     Job Description
         - Creating test plans, system specifications, and papers for IT applications in accordance with current standards and procedures.
@@ -135,7 +135,7 @@
         - Around $52,000/yr
 
 ### A Mid-level Position 
-    You will work at Mobis Parts, in Markham working regular full-time job hours
+  * You will work at Mobis Parts, in Markham working regular full-time job hours
 
     Job Description
 
@@ -160,7 +160,7 @@
         - Around $65,000/yr
 
 ### A Senior Level Position
-    You will work at Aviva Canada, in Markham working regular full-time job hours
+  * You will work at Aviva Canada, in Markham working regular full-time job hours
 
     Job Description
 
