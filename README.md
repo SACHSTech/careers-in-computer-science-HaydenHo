@@ -4,6 +4,7 @@
 ## IT Business Analyst
 
 ### What is an IT Business Analyst?
+  * An IT Business Analyst is responsible for:
     - Coordinating with the executive branch's IT division.
     - Serving as a communication and information conduit between organizational branches.
     - Recognizing the strategic requirements and expansion objectives of business.
@@ -17,12 +18,12 @@
     - Conducting A/B tests and data analysis.
     - Data analysis for commercial decision-making.
 
-### To become a business analyst, You need
+  * To Become a Business Analyst, You Need
     - Earn a Bachelor’s Degree
     - Pursue an advanced degree/master’s
     - Improve your technical and business skills
 
-### Technical and non-technical skills
+  * Technical and Non-technical Skills
     - Both written and spoken communication abilities
     - Skills in communication and consultation
     - Facilitating abilities
