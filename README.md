@@ -131,6 +131,7 @@
 
     Additional Skills
         - Experience with Figma, Jira, Confluence and ServiceNow
+        
     Salary
         - Around $52,000/yr
 
