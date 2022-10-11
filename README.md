@@ -105,7 +105,7 @@
         - Identifies opportunities to strengthen business analysis capability
         - Analyzes and interprets trends or patterns in data sets to provide ongoing 
 ## Other in school opportunities
-    * Business Analytics guest speakers (example topics)
+   * Business Analytics guest speakers (example topics)
         - Marketing/CRM Analytics
         - Gaming Analytics & Entrepreneurship
         - People analytics
